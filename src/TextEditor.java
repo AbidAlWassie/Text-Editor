@@ -25,6 +25,7 @@ import javax.swing.ImageIcon;
 /**
  *
  * @author Abid
+ * @year: 2018
  */
 @SuppressWarnings("serial")
 public class TextEditor extends JFrame implements ActionListener, DocumentListener {
